@@ -16,7 +16,7 @@
 <body>
     <div class="header">
         <h1>Collin DiMaio</h1>
-        <h3>Portfolio</h3>
-        <p>This is my portfolio for projects and things</p>
+        <h3>Software Engineer</h3>
+        <p><a href="https://github.com/CollinDiMaio">Github</a> | <a href="https://gitlab.com/wgu-gitlab-environment/student-repos/cdimai6">Gitlab</a> | dimaiocollin@gmail.com</p>
     </div>
 </body>
