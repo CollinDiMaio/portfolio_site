@@ -3,11 +3,11 @@
 </script>
 
 <style>
-* {
+:global(*) {
     font-family: 'Source Code Pro', monospace;
 }
 
-body {
+:global(body) {
     background-color: #0a0a0a;
     color: #b8b8b8;
     
