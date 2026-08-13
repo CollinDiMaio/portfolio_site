@@ -19,4 +19,8 @@
         <h3>Software Engineer</h3>
         <p><a href="https://github.com/CollinDiMaio">Github</a> | <a href="https://gitlab.com/wgu-gitlab-environment/student-repos/cdimai6">Gitlab</a> | dimaiocollin@gmail.com</p>
     </div>
+
+    <div class="card-box">
+
+    </div>
 </body>
