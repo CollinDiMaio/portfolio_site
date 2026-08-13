@@ -1,5 +1,6 @@
 <script>
-
+    import { projects } from '$lib/data/projects';
+    import ProjectCard from '$lib/components/ProjectCard.svelte';
 </script>
 
 <style>
@@ -21,6 +22,8 @@
     </div>
 
     <div class="card-box">
-
+        {#each projects as project}
+            <ProjectCard {project} />
+        {/each}
     </div>
 </body>
