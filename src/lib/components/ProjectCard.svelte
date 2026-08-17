@@ -4,7 +4,7 @@
     let { project }: { project: Project } = $props();
 </script>
 
-<div class="card">
+<div class="min-w-xs max-w-md">
     <img src={project.image} alt={project.id} />
 
     <p class="project-title">{project.title}</p>

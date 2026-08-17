@@ -10,7 +10,7 @@
     <p><a href="https://github.com/CollinDiMaio">Github</a> | <a href="https://gitlab.com/wgu-gitlab-environment/student-repos/cdimai6">Gitlab</a> | dimaiocollin@gmail.com</p>
 </div>
 
-<div class="card-box">
+<div class="flex gap-6 flex-wrap justify-evenly">
     {#each projects as project}
         <ProjectCard {project} />
     {/each}
