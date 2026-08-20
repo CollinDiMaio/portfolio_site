@@ -15,7 +15,7 @@ export const projects: Project[] = [
         id: 'liftr',
         title: 'Liftr',
         description: 'A weightlifting workout tracker with a focus on local-first design.',
-        image: '',
+        image: '$lib/assets/pexels-talal10920328.jpg',
         technologies: ['React Native', 'TypeScript', 'Expo'],
         status: 'In-Progress',
         repoUrl: 'https://github.com/CollinDiMaio/Liftr'
@@ -25,7 +25,7 @@ export const projects: Project[] = [
         id: 'portfolio_site',
         title: 'Portfolio Site',
         description: 'A simple static web page that serves as a showcase of my projects.',
-        image: '',
+        image: '/src/lib/assets/pexels-talal10920328.jpg',
         technologies: ['HTML', 'CSS', 'TypeScript', 'Svelte', 'Sveltekit'],
         status: 'Complete'
     },
