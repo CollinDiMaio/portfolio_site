@@ -1,9 +1,10 @@
 <script lang="ts">
     import type { Project } from '$lib/data/projects';
+    import placeholder from '$lib/assets/pexels-talal-10920328.jpg';
 
     let { project }: { project: Project } = $props();
 </script>
-
+<!--TODO: Style project cards-->
 <div class="min-w-2xs max-w-s">
     <img src={project.image} alt={project.id} />
 
